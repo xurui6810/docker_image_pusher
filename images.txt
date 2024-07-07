@@ -1,4 +1,4 @@
 #支持私库
-kibana:8.14.1
+kibana:7.17.22
 #支持指定架构
 --platform=linux/amd64
